@@ -8,7 +8,7 @@ permalink: /
 # Keeping Your Files Safe in the Quantum Age
 
 <p align="left">
-  <img src="images/sare-logo.svg" alt="Sare Logo" width="100" height="100">
+  <img src="images/sare-logo.svg" alt="Sare Logo" width="300">
 Sare is a special tool that makes sure your files stay safe, especially when facing advanced technologies like quantum computers. It's a simple and powerful way to keep your information secure, and it works differently than traditional methods like PGP.
 </p>
 
