@@ -4,5 +4,4 @@ layout: default
 parent: Concepts
 ---
 
-Test
 
