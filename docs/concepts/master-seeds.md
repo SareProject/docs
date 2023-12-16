@@ -42,7 +42,7 @@ Still, it can be converted to a mnemonic seed like those used in Bitcoin, consis
 
 ## Deriving Child Seeds from Master Seed
 
-Child seed/key derivation is accomplished using HKDFs. For child seeds/keys needing 32 bytes, SHA2/SHA3_256 is used; for those requiring 64 bytes, SHA2/SHA3_512 is employed. Larger child keys are derived from a 64-byte child seed fed into an XOF. The use of different hash functions for varying key sizes ensures not relying on one hash algorithm for everything. In the event one hash algorithm is compromised, others for different key sizes remain secure. When deriving child seeds/keys, the entire master seed is provided to the HKDF as IKM, with the last 10 bytes of the master seed serving as the salt and a 4-byte constant context for each algorithm to ensure the uniqueness of child keys.
+Child seed/key derivation is accomplished using HKDFs. For child seeds/keys needing 32 bytes, SHA2/SHA3_256 is used; for those requiring 64 bytes, SHA2/SHA3_512 is employed. Larger child keys are derived from a 64-byte child seed fed into an XOF. The use of different hash functions for varying key sizes ensures not relying on one hash algorithm for everything. In the event one hash algorithm is compromised, others for different key sizes remain secure. When deriving child seeds/keys, the entire master seed is provided to the HKDF as IKM and a 4-byte constant context for each algorithm to ensure the uniqueness of child keys.
 
 
 
