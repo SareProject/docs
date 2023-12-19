@@ -12,6 +12,11 @@ Sare is an open-source project driven by community contributions and support. If
 
 You can support us by making donations in various cryptocurrencies. Your contributions help support ongoing development, and ensure the sustainability of the project.
 
+- **Monero (XMR):**
+  ```
+  8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ
+  ```
+
 - **Bitcoin (BTC):**
   ```
   bc1qdzdlytujxn3l02vdt90xx5pkqlezxpuucs6fmm
