@@ -1,5 +1,5 @@
 ---
-title: Public Keys
+title: Public Keys Format
 layout: default
 parent: Formats
 ---

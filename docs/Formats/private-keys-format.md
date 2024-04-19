@@ -1,5 +1,5 @@
 ---
-title: Private Keys
+title: Private Keys Format
 layout: default
 parent: Formats
 ---
