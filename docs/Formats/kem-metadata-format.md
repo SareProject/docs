@@ -1,7 +1,7 @@
 ---
 title: Key Encapsulation Mechanism Metadata Format
 layout: default
-parent: Encryption Metadata Format
+parent: Formats
 ---
 
 ## Key Encapsulation Mechanism Metadata Format

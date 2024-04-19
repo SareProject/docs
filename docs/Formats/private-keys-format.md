@@ -28,4 +28,4 @@ Private keys are essential components of encryption systems, used for decryption
 +---------------------+
 ```
 
-[Encryption Metadata Format](/Formats/encryption-metadata-format)
+[Encryption Metadata Format](./encryption-metadata-format)

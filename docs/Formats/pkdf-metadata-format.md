@@ -1,7 +1,7 @@
 ---
 title: Password-Based Key Derivation Function Metadata Format
 layout: default
-parent: Encryption Metadata Format
+parent: Formats
 ---
 
 ## Password-Based Key Derivation Function Metadata Format
