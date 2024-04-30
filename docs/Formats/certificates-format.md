@@ -17,4 +17,4 @@ Certificates in SARE are crucial for cryptographic operations, providing authent
 ### Types of certificate:
 - [RevocationCertificateFormat](./revocation-certificate-format)
 
-[SignatureFormat Documentation](./signature-format)
+[SignatureFormat Documentation](./signatures-format)
