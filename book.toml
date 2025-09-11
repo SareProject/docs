@@ -1,0 +1,12 @@
+[book]
+authors = ["Zola Gonano"]
+language = "en"
+multilingual = false
+src = "src"
+title = "SARE Project Documentation"
+
+[output]
+
+[output.html]
+git-repository-url = "https://github.com/sareproject/docs"
+mathjax-support = true
