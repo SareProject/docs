@@ -2,8 +2,6 @@
 
 ## What is SARE?
 
-<img src="./sare.svg" alt="SARE's Logo" width="300" align="right" style="margin-right:10px;">
-
 SARE (Safe At Rest Encryption) is a **hybrid post-quantum encryption system** designed to protect data against both **classical** and **quantum** attacks.
 
 Unlike traditional encryption tools that rely on a single algorithm (e.g., RSA or AES), SARE combines **classical algorithms** like X25519 and Ed25519 with **post-quantum algorithms** like Kyber768, using a **hybrid scheme**. Even if one algorithm is broken in the future, your data remains secure.
